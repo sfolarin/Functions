@@ -1,1 +1,1 @@
-# Functions
+This contains all the functions I will be using during the course of my PHD. 
