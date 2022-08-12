@@ -1,0 +1,5 @@
+Please run the data generator file first when changing planes and/or sizes, as it generates the appropriate dat files for the actual code to run.
+
+Only need to change the fO (field orientation) and N (size) values of the code files to suit your needs.
+
+The 3D plot code runs on binary files (.npy), but I've included the dat files for easier reading.
